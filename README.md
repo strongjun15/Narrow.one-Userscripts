@@ -92,3 +92,32 @@ Adds a centered dot to the screen for easier aiming.
 
 Click the file named **Adaptive Center Dot**, download it, and upload it on Tampermonkey.
 Or you can just copy the script, create a new file in Tampermonkey by clicking `+`, and pasting it.
+
+## 🗡️ Kill Feed
+Shows a kill feed in the top right corner of the screen.
+
+### Features
+* **Kills & Deaths:** Kills confirmed by the server, plus deaths from falling and spikes.
+* **Flag Events:** Flag grabs, captures, drops and returns, shown in team colors.
+* **Customizable:** Change text size, font and display time from the **Kill Feed** button in the main menu, with a live preview. You can also turn the feed off there.
+
+### How to Use
+
+Click the file named **Kill Feed**, download it, and upload it on Tampermonkey.
+Or you can just copy the script, create a new file in Tampermonkey by clicking `+`, and pasting it.
+
+## 🚩 No Flag Mod
+Made for 1v1s in private squads, so you can fight without the flags getting in the way.
+
+### Features
+* **Hide flag icons:** Hides the flag markers you see through walls, for both teams.
+* **Never pick up flags:** Walking over the enemy flag no longer picks it up.
+
+Both can be switched on and off separately from the **No Flag** button in the main menu.
+
+⚠️ It only changes your own game, so the other player needs the script too.
+
+### How to Use
+
+Click the file named **No Flag Mod**, download it, and upload it on Tampermonkey.
+Or you can just copy the script, create a new file in Tampermonkey by clicking `+`, and pasting it.
