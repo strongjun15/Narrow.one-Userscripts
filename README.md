@@ -7,7 +7,7 @@ To run these scripts, Tampermonkey or Violentmonkey (Google Chrome extensions to
 
 ## 💬 Chat Mod with Translation
 
-![Chat Mod with Translation](chatmod.png)
+![Chat Mod with Translation](images/chatmod.png)
 
 Real-time translation and adaptive text color features considering the background to enhance your gameplay experience.
 
@@ -94,6 +94,9 @@ Click the file named **Adaptive Center Dot**, download it, and upload it on Tamp
 Or you can just copy the script, create a new file in Tampermonkey by clicking `+`, and pasting it.
 
 ## 🗡️ Kill Feed
+
+![Kill Feed](images/killfeed.png)
+
 Shows a kill feed in the top right corner of the screen.
 
 ### Features
@@ -107,6 +110,9 @@ Click the file named **Kill Feed**, download it, and upload it on Tampermonkey.
 Or you can just copy the script, create a new file in Tampermonkey by clicking `+`, and pasting it.
 
 ## 🚩 No Flag Mod
+
+![No Flag Mod](images/noflag.png)
+
 Made for 1v1s in private squads, so you can fight without the flags getting in the way.
 
 ### Features
